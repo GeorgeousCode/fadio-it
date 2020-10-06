@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import RenderClinicalTrials from "./RenderClinicalTrials";
-import * as serviceWorker from "./serviceWorker";
 
 const trials = [
   { start: 90, end: 115, title: "Bortezomib" },
@@ -21,6 +20,3 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById("root")
 );
-
-
-serviceWorker.unregister();
