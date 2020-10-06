@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.11f82295.chunk.css",
-    "main.js": "/static/js/main.82d8cc65.chunk.js",
-    "main.js.map": "/static/js/main.82d8cc65.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ee311ca8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ee311ca8.js.map",
-    "static/js/2.e80e1e1d.chunk.js": "/static/js/2.e80e1e1d.chunk.js",
-    "static/js/2.e80e1e1d.chunk.js.map": "/static/js/2.e80e1e1d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3523d7cfc5bcd9c27426c833368d96b1.js": "/precache-manifest.3523d7cfc5bcd9c27426c833368d96b1.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.11f82295.chunk.css.map": "/static/css/main.11f82295.chunk.css.map",
-    "static/js/2.e80e1e1d.chunk.js.LICENSE.txt": "/static/js/2.e80e1e1d.chunk.js.LICENSE.txt"
+    "main.css": "/fadio-it/static/css/main.11f82295.chunk.css",
+    "main.js": "/fadio-it/static/js/main.82d8cc65.chunk.js",
+    "main.js.map": "/fadio-it/static/js/main.82d8cc65.chunk.js.map",
+    "runtime-main.js": "/fadio-it/static/js/runtime-main.503e1842.js",
+    "runtime-main.js.map": "/fadio-it/static/js/runtime-main.503e1842.js.map",
+    "static/js/2.e80e1e1d.chunk.js": "/fadio-it/static/js/2.e80e1e1d.chunk.js",
+    "static/js/2.e80e1e1d.chunk.js.map": "/fadio-it/static/js/2.e80e1e1d.chunk.js.map",
+    "index.html": "/fadio-it/index.html",
+    "precache-manifest.276466ec12dbdfd7a78648b622509a5d.js": "/fadio-it/precache-manifest.276466ec12dbdfd7a78648b622509a5d.js",
+    "service-worker.js": "/fadio-it/service-worker.js",
+    "static/css/main.11f82295.chunk.css.map": "/fadio-it/static/css/main.11f82295.chunk.css.map",
+    "static/js/2.e80e1e1d.chunk.js.LICENSE.txt": "/fadio-it/static/js/2.e80e1e1d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee311ca8.js",
+    "static/js/runtime-main.503e1842.js",
     "static/js/2.e80e1e1d.chunk.js",
     "static/css/main.11f82295.chunk.css",
     "static/js/main.82d8cc65.chunk.js"
