@@ -132,9 +132,10 @@ function RenderTrials(
     <div className="trials">
       {trialsLines.map((trialsByLine, line) => {
         return trialsByLine.map((trial) => {
-          const numberOfIntersections = trial.numberOfIntersections
-            ? trial.numberOfIntersections
-            : 1;
+          const numberOfIntersections =
+            trial.numberOfIntersections !== undefined
+              ? trial.numberOfIntersections
+              : 1;
           const heightOfTrial =
             heightOfTrialsContainer / (numberOfIntersections + 1);
           return (
