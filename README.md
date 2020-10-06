@@ -1,8 +1,24 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[DEMO](https://georgeouscode.github.io/fadio-it/)
+
+[REPO](https://github.com/GeorgeousCode/fadio-it/)
+
+## Install dependencies
+
+- `npm install`
+
 ## Serve the project
 
 - `npm start`
+
+## Build the project
+
+- `npm run build`
+
+## Deploy the project
+
+- `npm run deploy`
 
 ## Algo
 
