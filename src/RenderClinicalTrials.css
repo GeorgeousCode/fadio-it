@@ -1,0 +1,32 @@
+.trials {
+  width: 720px;
+  position: relative;
+  height: 250px;
+  margin: 10px auto;
+  overflow: hidden;
+}
+
+.trial {
+  position: absolute;
+  border: 1px solid black;
+}
+
+.footer {
+  width: 720px;
+  margin: auto;
+  border-top: 1px solid black;
+  position: relative;
+  height: 25px;
+}
+
+.trait {
+  height: 5px;
+  background: black;
+  width: 1px;
+  position: absolute;
+}
+
+.yearDiv {
+  position: absolute;
+  top: 5px;
+}
